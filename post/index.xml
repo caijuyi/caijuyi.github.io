@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo tranquilpeak theme</title>
+    <link>https://caijuyi.github.io.git/post/</link>
+    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 10:08:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://caijuyi.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://caijuyi.github.io.git/2021/02/blog/</link>
+      <pubDate>Tue, 02 Feb 2021 10:08:26 +0800</pubDate>
+      
+      <guid>https://caijuyi.github.io.git/2021/02/blog/</guid>
+      <description>lalala</description>
+    </item>
+    
+  </channel>
+</rss>
